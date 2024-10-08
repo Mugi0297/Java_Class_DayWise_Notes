@@ -29,7 +29,7 @@ Java is a versatile, high-level programming language that is widely used for bui
 - Operators in Java
 - Control Statements (if, switch)
 
-### Day 3: Datatypes Variables & SampleCode
+### Day 3: Datatypes_Variables & SampleCode
 - Introduction to Arrays
 - Multi-dimensional Arrays
 - Array Operations
@@ -39,7 +39,7 @@ Java is a versatile, high-level programming language that is widely used for bui
 - Method Overloading
 - Return Types and Parameters
 
-### Day 5: Object ScannerClass AccessClassMemeber static
+### Day 5: Object ScannerClass AccessClassMemeber_static
 - Classes and Objects
 - Constructors
 - `this` Keyword
@@ -57,26 +57,50 @@ Java is a versatile, high-level programming language that is widely used for bui
 - Method Overriding
 - `super` Keyword
 
-### Day 8: Break COntinue & Arrays
+### Day 8: Break_Continue & Arrays
 - Concept of Inheritance
 - Types of Inheritance
 - Method Overriding
 - `super` Keyword
 
-### Day 9: Enum String StringLiteral StringObject
+### Day 9: Enum_String_StringLiteral_StringObject
+- Concept of Inheritance
+- Types of Inheritance
+- Method Overriding
+- `super` Keyword
+
+### Day 10: StringMethods
+- Concept of Inheritance
+- Types of Inheritance
+- Method Overriding
+- `super` Keyword
+
+### Day 11: StringBuffer_StringBuilder & StringTokenizer
+- Concept of Inheritance
+- Types of Inheritance
+- Method Overriding
+- `super` Keyword
+
+### Day 12: Methods Constructors & this-keyword
+- Concept of Inheritance
+- Types of Inheritance
+- Method Overriding
+- `super` Keyword
+
+### Day 13: Access_Specifiers_or_Modifiers_or_non-access_modifiers
 - Concept of Inheritance
 - Types of Inheritance
 - Method Overriding
 - `super` Keyword
 ## Intermediate
 
-### Day 6: Inheritance
+### Day 14: Object Oriented Programming Structure or System
 - Concept of Inheritance
 - Types of Inheritance
 - Method Overriding
 - `super` Keyword
 
-### Day 7: Interfaces and Abstract Classes
+### Day 15: Exception Handling
 - Introduction to Interfaces
 - Abstract Classes vs. Interfaces
 - Implementing Interfaces
